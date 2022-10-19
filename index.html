@@ -40,9 +40,15 @@
   </head>
 
   <body>
-    <audio controls autoplay class="d-none">
-      <source src="assets/audio/bensound-hey.mp3" type="audio/mp3" />
-      Your browser does not suppor the audio element
+    <iframe
+      src="assets/audio/bensound-hey.mp3"
+      allow="autoplay"
+      style="display: none"
+      id="iframeAudio"
+    >
+    </iframe>
+    <audio autoplay loop id="playAudio" class="d-none">
+      <source src="assets/audio/bensound-hey.mp3" />
     </audio>
     <!-- ======= Hero Section ======= -->
     <section id="hero">
@@ -1171,5 +1177,17 @@
 
     <!-- Template Main JS File -->
     <script src="assets/js/main.js"></script>
+    <script>
+      var isChrome =
+        /Chrome/.test(navigator.userAgent) &&
+        /Google Inc/.test(navigator.vendor);
+      if (!isChrome) {
+        let audio = document.querySelector('#iframeAudio');
+        audio.remove();
+      } else {
+        let audio = document.querySelector('#playAudio');
+        audio.remove(); // just to make sure that it will not have 2x audio in the background
+      }
+    </script>
   </body>
 </html>
