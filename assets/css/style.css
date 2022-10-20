@@ -494,6 +494,34 @@ section {
 }
 
 /*--------------------------------------------------------------
+# About Details Slider
+--------------------------------------------------------------*/
+.about {
+  padding-top: 40px;
+}
+
+.about .about-details-slider img {
+  width: 100%;
+}
+
+.about .about-details-slider .swiper-pagination {
+  margin-top: 20px;
+  position: relative;
+}
+
+.about .about-details-slider .swiper-pagination .swiper-pagination-bullet {
+  width: 12px;
+  height: 12px;
+  background-color: #fff;
+  opacity: 1;
+  border: 1px solid #c3841d;
+}
+
+.about .about-details-slider .swiper-pagination .swiper-pagination-bullet-active {
+  background-color: #c3841d;
+}
+
+/*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
 .services .icon-box h4 {
@@ -547,6 +575,24 @@ section {
 .featured {
   padding: 40px 0 0 0;
   background: white;
+}
+
+.featured .icon-box h4 {
+  font-size: 20px;
+  font-weight: 700;
+  margin: 5px 0 10px 60px;
+}
+
+.featured .icon-box i {
+  font-size: 48px;
+  float: left;
+  color: #c3841d;
+}
+
+.featured .icon-box p {
+  font-size: 15px;
+  color: #959595;
+  margin-left: 60px;
 }
 
 .featured .nav-tabs {
@@ -808,6 +854,26 @@ section {
   border-radius: 0;
 }
 
+.why-us .btn-get-started {
+  font-family: "Montserrat", sans-serif;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 14px 30px;
+  border-radius: 3px;
+  margin: 10px;
+  color: #fff;
+  background: #c3841d;
+}
+
+.why-us .btn-get-started:hover {
+  transition: 0.5s;
+  background: rgb(238, 238, 238);
+  color: #c3841d;
+}
+
 @media (max-width: 1024px) {
 
   .why-us .content,
@@ -1007,6 +1073,24 @@ section {
   bottom: 15px;
   right: 15px;
 }
+
+/*--------------------------------------------------------------
+# Gallery
+--------------------------------------------------------------*/
+.gallery .gallery-item {
+  overflow: hidden;
+  border-right: 3px solid #ffffff;
+  border-bottom: 3px solid #ffffff;
+}
+
+.gallery .gallery-item img {
+  transition: all ease-in-out 0.4s;
+}
+
+.gallery .gallery-item:hover img {
+  transform: scale(1.1);
+}
+
 
 /*--------------------------------------------------------------
 # Portfolio Details
