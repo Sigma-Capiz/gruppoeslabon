@@ -20,14 +20,16 @@ function displayBlog() {
       return `
             <article class="entry entry-single">
                 <div class="entry-img">
+                    <a href="${data.pdf}">
                     <img
                     src="${data.img}"
                     alt=""
                     class="img-fluid"
                     />
+                    </a>
                 </div>
 
-                <h2 class="entry-title">${data.title}</h2>
+                <a href="${data.pdf}"><h2 class="entry-title">${data.title}</h2></a> <h5>(Click on the image to view publication)</h5>
 
                 <div class="entry-meta">
                     <ul>
@@ -43,7 +45,7 @@ function displayBlog() {
                 </div>
                 <div class="entry-content">
                 ${Object.values(data.content)
-                  .map((d) => `<p>${d}`)
+                  .map((d) => `<p align="justify">${d}`)
                   .join('</p>')}
                 </div>
 

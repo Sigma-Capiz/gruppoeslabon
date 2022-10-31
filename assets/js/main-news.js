@@ -66,7 +66,7 @@ window.onload = function () {
               <div class="entry-content">
                 <p>
                 ${Object.values(data.content)
-                  .map((d) => `<p>${d}`)
+                  .map((d) => `<p align="justify">${d}`)
                   .join('</p>')}
                 </p>
                 <div class="read-more">

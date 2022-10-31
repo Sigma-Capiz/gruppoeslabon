@@ -1,20 +1,148 @@
 [
     {
       "id": "2001",
-      "title": "Sample News",
-      "slug": "sample-news",
+      "title": "The Steel Tribune 2014 V.1",
+      "slug": "steel1",
       "author": "Admin",
-      "img": "../assets/img/about.jpg",
+      "img": "../assets/img/magazine-cover/steelv1.jpg",
       "content": 
       [
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-        "Maiores accusantium quis nemo impedit, voluptatum accusamus corporis in iure magni quo commodi asperiores quia laboriosam obcaecati explicabo molestiae rerum neque cum."
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In any industry, change is a good thing. Change encompasses what the company has managed to became from its pillar to its now growing dynasty. The new Steel Tribune represents the transition the company is going through. It is breaking free from contemporary practices to provide new breed of security services to different communities. The group aims to publish this magazine every end of the year to present to the people the achievements and recognitions the different companies managed to receive throughout the year. The magazine, however, does not turn its back to the circumstances of the past, but rather builds on them to be the guiding principle towards where the company wants to go. We dedicate this magazine to the people who made everything possible, through their unending support and trust the company managed to establish in the industry. The magazine also serves as a testament to the contribution of the men and women who dedicated their service and efforts to live out the brand of service Gruppo Eslabon is known for."
       ],
       "categories": [
-        "Event"
+        "The Steel Tribune V1"
       ],
       "url": "/news/sample-news.html",
-      "dateCreated": "Sep 10 2022  08:00:00 AM"
+      "dateCreated": "Oct 31 2022  08:00:00 PM",
+      "pdf": "../assets/pdf/steelv1.pdf"
+    },
+    {
+      "id": "2002",
+      "title": "The Steel Tribune 2016 V.2",
+      "slug": "steel2",
+      "author": "Admin",
+      "img": "../assets/img/magazine-cover/steelv2.jpg",
+      "content": 
+      [
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It is mentioned that in any industry, change is a good thing. Change encompasses what GE has managed to become, from its pillar to its now growing dynasty. The new Steel Tribune represents the transition the company is going through, it is breaking free from contemporary practices to provide new breed of security services to different companies. The magazine, however, does not turn its back to the circumstances of the past, but rather builds on them, to be the guiding principle towards where the company wants to go. We dedicate this magazine to the people who made everything possible, through their unending support and trust the company managed to cement its name to the industry. The magazine also serves as a reminder of the contribution of the men and women who dedicated their service and efforts to live out the brand of service Gruppo Eslabon is known for."
+      ],
+      "categories": [
+        "The Steel Tribune V2"
+      ],
+      "url": "/news/sample-news.html",
+      "dateCreated": "Oct 31 2022  08:00:00 PM",
+      "pdf": "../assets/pdf/steelv2.pdf"
+    },
+    {
+      "id": "2003",
+      "title": "The Steel Tribune V.3",
+      "slug": "steel3",
+      "author": "Admin",
+      "img": "../assets/img/magazine-cover/steelv3.jpg",
+      "content": 
+      [
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&quot;With another successful operating year closed, we at Gruppo Eslabon (GE) looks back to the happenings and significant events of the past within the company that helped fuel the group&apos;s growth to where it is now. As its founding president, I can conclude with complete confidence that GE now is proudly different from when we started it 20 years ago with its maiden company, Shooters Security Services Inc., and these changes are the testaments to the resilience of the GE team and its desire to be bigger and of course, better.&quot;",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Dante A. Eslabon, GE President"
+      ],
+      "categories": [
+        "The Steel Tribune V3"
+      ],
+      "url": "/news/sample-news.html",
+      "dateCreated": "Oct 31 2022  08:00:00 PM",
+      "pdf": "../assets/pdf/steelv3.pdf"
+    },
+    {
+      "id": "2004",
+      "title": "The Steel Tribune V.4",
+      "slug": "steel4",
+      "author": "Admin",
+      "img": "../assets/img/magazine-cover/steelv4.jpg",
+      "content": 
+      [
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&quot;To embark on a journey of success in the very competitive security industry in our country, one needs the tools of preparedness, foresight, and strategy. Unequivocally adopting these proven business mantras led to the path of growth and high-quality security business operation of our company.&quot;",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&quot;Consistently, we at Gruppo Eslabon endeavors to be among one of the most competitive companies in the security services provision business, with emphasis on efficiency in operations, dependability, and reliability for our valued clients. Guided by the company's glorious past and geared towards the future, we have the key success factors necessary to withstand the winds of change in the years to come.&quot;",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Ferdinand A. Eslabon, GE Managing Director"
+      ],
+      "categories": [
+        "The Steel Tribune V4"
+      ],
+      "url": "/news/sample-news.html",
+      "dateCreated": "Oct 31 2022  08:00:00 PM",
+      "pdf": "../assets/pdf/steelv4.pdf"
+    },
+    {
+      "id": "2005",
+      "title": "The Steel Tribune V.5",
+      "slug": "steel5",
+      "author": "Admin",
+      "img": "../assets/img/magazine-cover/steelv5.jpg",
+      "content": 
+      [
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&quot;We welcome 2019 with renewed eagerness and positivity, we at Gruppo Eslabon (GE) will continue to strive to be a respected, competitive, profitable business, recognized as amongst the industry leaders in providing the best corporate protection services, management consulting and technology solutions. We remain committed to delivering high quality, value-added security solutions and products to our clients.&quot;",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Dante A. Eslabon, GE President"
+      ],
+      "categories": [
+        "The Steel Tribune V5"
+      ],
+      "url": "/news/sample-news.html",
+      "dateCreated": "Oct 31 2022  08:00:00 PM",
+      "pdf": "../assets/pdf/steelv5.pdf"
+    },
+    {
+      "id": "2006",
+      "title": "The Steel Tribune V.6",
+      "slug": "steel6",
+      "author": "Admin",
+      "img": "../assets/img/magazine-cover/steelv6.jpg",
+      "content": 
+      [
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&quot;In the past decade, we saw our hard work result in the achievement of several important corporate milestones to position GE for the future. These milestones represent significant progress in building our corporate earnings streams, strengthening our capabilities and executing and expanding our project pipelines.&quot;",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Ferdinand A. Eslabon, GE Managing Director"
+      ],
+      "categories": [
+        "The Steel Tribune V6"
+      ],
+      "url": "/news/sample-news.html",
+      "dateCreated": "Oct 31 2022  08:00:00 PM",
+      "pdf": "../assets/pdf/steelv6.pdf"
+    },
+    {
+      "id": "2007",
+      "title": "The Steel Tribune V.7",
+      "slug": "steel7",
+      "author": "Admin",
+      "img": "../assets/img/magazine-cover/steelv7.jpg",
+      "content": 
+      [
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&quot;The time-tested adage that says &apos;When the going gets tough, the tough gets going&apos;, is so true these days. As one of the leaders of our organization, I need to be more technically, emotionally, and spiritually strong and sharp nowadays, many lives depend on the decisions we make during this extraordinary times. I am just so thankful that with the grace of God, Gruppo Eslabon has so far surpassed the worst, but is continuously cautious and mindful that this global pandemic is far from over, and its business impact will linger for years to come.&quot;",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Dante A. Eslabon, GE President"
+      ],
+      "categories": [
+        "The Steel Tribune V7"
+      ],
+      "url": "/news/sample-news.html",
+      "dateCreated": "Oct 31 2022  08:00:00 PM",
+      "pdf": "../assets/pdf/steelv7.pdf"
+    },
+    {
+      "id": "2008",
+      "title": "The Steel Tribune V.8",
+      "slug": "steel8",
+      "author": "Admin",
+      "img": "../assets/img/magazine-cover/steelv8.jpg",
+      "content": 
+      [
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&quot;It has been quite a ride, the prolonged global pandemic has challenged our organization to be the best version of itself. Over the past year, we at Gruppo Eslabon demonstrated again our strengths as an organization and made it clear that when it comes to Gruppo Eslabon, the whole is greater that the sum of the parts.&quot;",
+        "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Ferdinand A. Eslabon, GE Managing Director"
+      ],
+      "categories": [
+        "The Steel Tribune V8"
+      ],
+      "url": "/news/sample-news.html",
+      "dateCreated": "Oct 31 2022  08:00:00 PM",
+      "pdf": "../assets/pdf/steelv8.pdf"
     }
+
+    
   ]
   
